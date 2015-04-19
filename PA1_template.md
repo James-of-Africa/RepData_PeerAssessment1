@@ -124,7 +124,7 @@ median(total2)
 ```
 Both mean and median have increased. This is to be expected as in the first histogram we can see 10 days in the smallest bin. This is an unrealistically low number of steps for a day. It is probably caused by the device not being worn much or at all  that day.   
 
-In the histogram with replaced values only two days have are left in the smallest bin. Comparing the two histograms it can be seen that the other 8 days have moved to the middle of the histogram.
+In the histogram with replaced values only two days are left in the smallest bin. Comparing the two histograms it can be seen that the other 8 days have moved to the middle of the histogram.
 
 ## Are there differences in activity patterns between weekdays and weekends?
 
