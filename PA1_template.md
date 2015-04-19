@@ -154,4 +154,4 @@ ggplot(sPerIntDF, aes(interval,aveSteps)) + geom_line() + facet_grid(weekend~.) 
 ![](PA1_template_files/figure-html/weekend-1.png) 
   
   
-Weekends see slightly more evenly spread total step averages over the midday period.
+Weekends see slightly more evenly spread step averages over the midday period.
