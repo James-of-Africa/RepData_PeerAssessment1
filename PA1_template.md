@@ -1,6 +1,6 @@
 # Reproducible Research: Peer Assessment 1
 
-This report shows an example of literate programming in the R programming language. It is used to show how a data analysis can be made reproducible.
+This report shows an example of literate programming in the R programming language.
 
 
 ## Loading and preprocessing the data
